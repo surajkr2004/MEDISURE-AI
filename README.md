@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ MediSure AI — Pharmaceutical Traceability & Anti-Counterfeiting Platform
 
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.3.3-black?style=flat&logo=next.js)](https://nextjs.org/)
@@ -190,3 +191,6 @@ d:\PBL5\
 
 *MediSure AI is an academic and educational engineering prototype developed for PBL5. Demonstration data, batches, and regulatory notices simulate real-world CDSCO and State FDA workflows for educational and verification research purposes. Platform administrative approvals do not represent statutory government certifications.*
 
+=======
+# MEDISURE-AI
+>>>>>>> b02398ef8b3be4f23b7b9549d25f535798f69fab

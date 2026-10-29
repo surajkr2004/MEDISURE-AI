@@ -189,3 +189,4 @@ d:\PBL5\
 ## ⚖️ Non-Affiliation & Regulatory Disclaimer
 
 *MediSure AI is an academic and educational engineering prototype developed for PBL5. Demonstration data, batches, and regulatory notices simulate real-world CDSCO and State FDA workflows for educational and verification research purposes. Platform administrative approvals do not represent statutory government certifications.*
+
